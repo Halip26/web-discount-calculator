@@ -17,3 +17,10 @@ function calculateTip() {
     2
   )}</strong>`;
 }
+
+function clearFields() {
+  document.getElementById("bill").value = "";
+  document.getElementById("tip").value = "";
+  document.getElementById("people").value = "";
+  document.getElementById("result").innerHTML = "";
+}
