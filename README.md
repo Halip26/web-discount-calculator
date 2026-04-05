@@ -26,6 +26,7 @@ A stylish and responsive **Discount Calculator** built using HTML, CSS, and Java
 - **Intl.NumberFormat** — for proper currency formatting in `id-ID` locale
 
 ## 📸 Preview
+
 <img src="preview.png" alt="Screenshot of the Discount Calculator" width="500">
 
 ## 📂 Usage
@@ -45,4 +46,5 @@ This project is licensed under the [MIT License](LICENSE) & is open-source and f
 
 ---
 
+Created with ❤️ by [Halip26](https://github.com/Halip26)
 Created with ❤️ by [Halip26](https://github.com/Halip26)
