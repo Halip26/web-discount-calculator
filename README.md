@@ -1,6 +1,6 @@
 # 🛍️ Discount Calculator
 
-A stylish and responsive **Discount Calculator** built using HTML, CSS, and JavaScript — localized for **Indonesian (Rupiah)** currency and optimized for mobile and tablet screens.
+A stylish and responsive **Discount Calculator** built using HTML, CSS, and JavaScript, localized for **Indonesian (Rupiah)** currency and optimized for mobile and tablet screens.
 
 ## 📱 Features
 
