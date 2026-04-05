@@ -46,5 +46,4 @@ This project is licensed under the [MIT License](LICENSE) & is open-source and f
 
 ---
 
-Created with ❤️ by [Halip26](https://github.com/Halip26)
-Created with ❤️ by [Halip26](https://github.com/Halip26)
+Created with 🤍 by [Halip26](https://github.com/Halip26)
